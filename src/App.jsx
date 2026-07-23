@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 
-/* ─── Skill / Tech Data ─── */
+/* ─── Skill / Tech Data*/
 const skills = [
   { name: "Java", icon: "☕", category: "Skill" },
   { name: "Python", icon: "🐍", category: "Skill" },
